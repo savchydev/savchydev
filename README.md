@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Andriy</h1>
 
 <p align="center">
-  DevOps Engineer exploring the intersection of computer science, neuroscience, and reliable systems.
+  DevOps Engineer and 42 Madrid student exploring the intersection of computer science, neuroscience, and reliable systems.
 </p>
 
 <p align="center">
@@ -11,7 +11,8 @@
 ## About Me
 
 - Working as a **DevOps Engineer**, building and supporting reliable infrastructure.
-- Studying **computer science**, **algorithms**, and **Python**.
+- Studying at **42 Madrid**, with a focus on software engineering and computer science fundamentals.
+- Learning **algorithms**, **Python**, and systems programming.
 - Interested in applying engineering thinking to questions in **neuroscience**.
 - Looking to grow through thoughtful collaboration, challenging projects, and eventually research.
 
@@ -33,20 +34,11 @@
   <a href="https://kubernetes.io/" title="Kubernetes">
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
   </a>
-  <a href="https://www.jenkins.io/" title="Jenkins">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40" />
-  </a>
-  <a href="https://grafana.com/" title="Grafana">
-    <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="40" height="40" />
-  </a>
-  <a href="https://www.elastic.co/" title="Elastic">
-    <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elastic" width="40" height="40" />
-  </a>
-  <a href="https://www.elastic.co/kibana" title="Kibana">
-    <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="Kibana" width="40" height="40" />
-  </a>
   <a href="https://www.python.org/" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+  </a>
+  <a href="https://www.cprogramming.com/" title="C">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
   <a href="https://www.postgresql.org/" title="PostgreSQL">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" />
@@ -67,4 +59,3 @@
 I enjoy connecting with people working on infrastructure, systems engineering, computer science, or neuroscience-related projects.
 
 Reach me at [wbdb2byuz@mozmail.com](mailto:wbdb2byuz@mozmail.com).
-
