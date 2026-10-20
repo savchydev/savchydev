@@ -40,7 +40,7 @@
   <a href="https://www.cprogramming.com/" title="C">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
   </a>
-p>
+</p>
 
 ## Let's Connect
 
